@@ -11,9 +11,11 @@ Filtered irrelevant, wrong, or duplicated data, such as DOB with 0 and income le
 
 ### Age Calculation
 Computed the current age of each student using their date of birth (DOB) in the DMMYYYY format using the DATEDIF function.
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/3f92bd31-1fcd-4bb5-88d7-b3353577208a)
 
 ### Median Monthly Income Analysis
 Calculated the median monthly income for each income level, considering the middle point for each range.
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/ff0b7d09-fa78-4695-b704-84127a90028f)
 
 ### Relation between Income and Parent's Education Level
 Analyzed the relationship between the median monthly income per family member and the level of education of the father and mother using a pivot table.
