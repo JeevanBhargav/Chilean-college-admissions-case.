@@ -3,6 +3,7 @@
 This project focuses on analyzing the Chilean college admissions dataset and exploring various factors related to demographics, income levels, education, and test scores. The analysis involves data cleaning, transformation, and visualization to derive meaningful insights.
 
 The Column Descriptions of the CSV:
+
 •MRUN: Application number.
 
 •DOB: date of birth.
@@ -44,6 +45,7 @@ Calculated the median monthly income for each income level, considering the midd
 ### Relation between Income and Parent's Education Level
 Analyzed the relationship between the median monthly income per family member and the level of education of the father and mother using a pivot table.
 Identified that education levels were proportional to median monthly income, with fluctuations and a peak at level 8.
+
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/66661a56-15d1-4d09-9d97-fb38bbb15ade)
 
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/f54f3ee7-3c3e-49a7-b157-d714e3292cba)
@@ -51,6 +53,7 @@ Identified that education levels were proportional to median monthly income, wit
 ### Effect of Family Size on NEM Score
 Used a pivot table to explore the effect of the number of family members on the NEM score.
 Found that the NEM scores remained steady with minimal fluctuations, reaching their highest average scores at 1 and 11 family members.
+
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/787de4b3-782f-47f4-a53e-9e3dd67ee827)
 
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/86a91af6-dfa5-44d1-bc96-32e796bbdd8b)
