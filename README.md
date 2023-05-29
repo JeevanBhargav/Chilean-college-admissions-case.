@@ -7,6 +7,8 @@ The Column Descriptions of the CSV:
 
 •DOB: date of birth.
 
+•Gender: Male or Female
+
 •Family size: number of people that live with the student.
 
 •How many in your family work: number of people that work within the family.
