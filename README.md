@@ -43,7 +43,7 @@ Calculated the median monthly income for each income level, considering the midd
 
 ### Relation between Income and Parent's Education Level
 Analyzed the relationship between the median monthly income per family member and the level of education of the father and mother using a pivot table.
-Identified that education levels were proportional to median monthly income, with fluctuations and a peak at level 9.
+Identified that education levels were proportional to median monthly income, with fluctuations and a peak at level 8.
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/66661a56-15d1-4d09-9d97-fb38bbb15ade)
 
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/f54f3ee7-3c3e-49a7-b157-d714e3292cba)
@@ -51,22 +51,27 @@ Identified that education levels were proportional to median monthly income, wit
 ### Effect of Family Size on NEM Score
 Used a pivot table to explore the effect of the number of family members on the NEM score.
 Found that the NEM scores remained steady with minimal fluctuations, reaching their highest average scores at 1 and 11 family members.
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/787de4b3-782f-47f4-a53e-9e3dd67ee827)
+
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/86a91af6-dfa5-44d1-bc96-32e796bbdd8b)
 
 ### Impact of Parent's Education Level on Test Scores
 Computed the average scores between Math (MATE) and Language (LYC) based on the mother's and father's education levels.
 Analyzed that the mother's scores had a bigger effect than the father's on the average scores, particularly with the increase in income.
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/2abe0fa2-cb91-4519-af44-9fbcba43d01d)
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/3f2186aa-8730-4173-b7e8-433e54087f0e)
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/7bbba7aa-90f3-4e2f-b549-c8aee87118cd)
 
 ### Effect of Income Level on Test Scores
 Examined the effect of the level of income on NEM, MATE, CIEN, HYC, and LYC average scores.
 Observed a steady increase with fluctuations, reaching their peak at specific income levels.
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/4bcbf8a8-ed10-429f-bde8-5a24f380dca8)
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/939fe451-27c3-457f-8ff5-b2f519a21ef7)
 
 ### Relationship between High School Type and Income Level
 Explored the relationship between high school types (HST) and income levels.
 Identified that students with income levels 1 and 2 predominantly opted for public schools (HST-2), while higher-income students preferred private schools (HST-4).
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/579418e5-1269-41ac-90d0-53fe9c7c7f53)
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/73205c33-ee59-498e-99f2-72c1fbff71f0)
 
 ## Conclusion
