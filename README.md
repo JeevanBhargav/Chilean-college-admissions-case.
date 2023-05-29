@@ -44,7 +44,8 @@ Calculated the median monthly income for each income level, considering the midd
 ### Relation between Income and Parent's Education Level
 Analyzed the relationship between the median monthly income per family member and the level of education of the father and mother using a pivot table.
 Identified that education levels were proportional to median monthly income, with fluctuations and a peak at level 9.
-![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/b17dfe92-1be5-4e52-813b-188aea770212)
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/f54f3ee7-3c3e-49a7-b157-d714e3292cba)
+
 ### Effect of Family Size on NEM Score
 Used a pivot table to explore the effect of the number of family members on the NEM score.
 Found that the NEM scores remained steady with minimal fluctuations, reaching their highest average scores at 1 and 11 family members.
