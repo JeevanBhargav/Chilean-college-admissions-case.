@@ -4,15 +4,22 @@ This project focuses on analyzing the Chilean college admissions dataset and exp
 
 The Column Descriptions of the CSV:
 •MRUN: Application number.
+
 •DOB: date of birth.
+
 •Family size: number of people that live with the student.
+
 •How many in your family work: number of people that work within the family.
+
 •Income level: categorical variable representing monthly income, as detailed in the next Table: 
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/ea71f2bb-4df9-4fea-8647-abe3b02c56b0)
+
 •Level education father/mother: categorical variable representing the maximum level of
 education attained by the parents, as detailed in the next table:
 ![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/c1d6e0bb-ca16-40e3-9488-da147b725ff7)
+
 •High School Type: The type of Highschool student is from i.e. 2-Public, 3-voucher, 4-Private.
+
 •Scores: NEM, LYC, MATE, HYCS, CIEN scores of applicants.
 
 
