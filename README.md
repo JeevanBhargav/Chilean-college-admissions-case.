@@ -1,4 +1,4 @@
-#  Chilean College Admissions Data Analysis.
+#  Chilean College Admissions Descriptive/Diagnostic Analysis.
 ## Description
 This project focuses on analyzing the Chilean college admissions dataset and exploring various factors related to demographics, income levels, education, and test scores. The analysis involves data cleaning, transformation, and visualization to derive meaningful insights.
 
@@ -21,7 +21,6 @@ education attained by the parents, as detailed in the next table:
 •High School Type: The type of Highschool student is from i.e. 2-Public, 3-voucher, 4-Private.
 
 •Scores: NEM, LYC, MATE, HYCS, CIEN scores of applicants.
-
 
 ## These are the steps that were followed to conduct the analysis and derive the insights:
 
@@ -46,18 +45,23 @@ Identified that education levels were proportional to median monthly income, wit
 ### Effect of Family Size on NEM Score
 Used a pivot table to explore the effect of the number of family members on the NEM score.
 Found that the NEM scores remained steady with minimal fluctuations, reaching their highest average scores at 1 and 11 family members.
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/86a91af6-dfa5-44d1-bc96-32e796bbdd8b)
 
 ### Impact of Parent's Education Level on Test Scores
 Computed the average scores between Math (MATE) and Language (LYC) based on the mother's and father's education levels.
 Analyzed that the mother's scores had a bigger effect than the father's on the average scores, particularly with the increase in income.
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/3f2186aa-8730-4173-b7e8-433e54087f0e)
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/7bbba7aa-90f3-4e2f-b549-c8aee87118cd)
 
 ### Effect of Income Level on Test Scores
 Examined the effect of the level of income on NEM, MATE, CIEN, HYC, and LYC average scores.
 Observed a steady increase with fluctuations, reaching their peak at specific income levels.
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/939fe451-27c3-457f-8ff5-b2f519a21ef7)
 
 ### Relationship between High School Type and Income Level
 Explored the relationship between high school types (HST) and income levels.
 Identified that students with income levels 1 and 2 predominantly opted for public schools (HST-2), while higher-income students preferred private schools (HST-4).
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/73205c33-ee59-498e-99f2-72c1fbff71f0)
 
 ## Conclusion
 Through the analysis of the Chilean college admissions dataset, several insights were gained regarding the relationship between income, education, family size, and test scores. The findings suggest a correlation between higher education levels and median monthly income, as well as the impact of family size on the NEM scores. The influence of parents' education levels on test scores was also examined, revealing a stronger effect from the mother's education level. Additionally, the analysis highlighted the association between income levels and test scores, as well as the preference for different high school types based on income levels.
