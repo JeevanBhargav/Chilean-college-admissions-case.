@@ -30,6 +30,8 @@ education attained by the parents, as detailed in the next table:
 Separated Demographics data into columns using text-to-columns with a delimiter.
 Converted the data into a table for better organization and analysis.
 Filtered irrelevant, wrong, or duplicated data, such as DOB with 0 and income level zero.
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/79ec1ccd-2061-473e-ad0b-e1116981fb07)
+![image](https://github.com/JeevanBhargav/Chilean-college-admissions-case./assets/130612387/7d969df9-2ec3-447a-b437-df71df10880f)
 
 ### Age Calculation
 Computed the current age of each student using their date of birth (DOB) in the DMMYYYY format using the DATEDIF function.
